@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi! It's Saeed.</br>
-I am a front-end developer who enjoys learning and working with new technologies. 
+Hi! It's Saeed.👋 </br>
+I am a front-end developer who enjoys learning and working with new technologies.</br> 
 My goal is to write clean, efficient, and scalable code.
 
 ## 🌐 Socials:
@@ -18,5 +18,8 @@ My goal is to write clean, efficient, and scalable code.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaeedKabootari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
