@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi! It's Saeed.</br>
-I am a front-end developer who enjoys learning and working with new technologies. My goal is to write clean, efficient, and scalable code.
+I am a front-end developer who enjoys learning and working with new technologies. 
+My goal is to write clean, efficient, and scalable code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saeed-kabootari-00968921b) 
